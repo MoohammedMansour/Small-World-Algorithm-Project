@@ -1,0 +1,14 @@
+D:\MoMaterial Of Semesters\Semester(4)\Analysis - Design algorithms\SmallWorldAlgo\SmallWorldAlgo\obj\Debug\SmallWorldAlgo.csproj.AssemblyReference.cache
+D:\MoMaterial Of Semesters\Semester(4)\Analysis - Design algorithms\SmallWorldAlgo\SmallWorldAlgo\obj\Debug\SmallWorldAlgo.csproj.CoreCompileInputs.cache
+D:\MoMaterial Of Semesters\Semester(4)\Analysis - Design algorithms\SmallWorldAlgo\SmallWorldAlgo\bin\Debug\SmallWorldAlgo.exe.config
+D:\MoMaterial Of Semesters\Semester(4)\Analysis - Design algorithms\SmallWorldAlgo\SmallWorldAlgo\bin\Debug\SmallWorldAlgo.exe
+D:\MoMaterial Of Semesters\Semester(4)\Analysis - Design algorithms\SmallWorldAlgo\SmallWorldAlgo\bin\Debug\SmallWorldAlgo.pdb
+D:\MoMaterial Of Semesters\Semester(4)\Analysis - Design algorithms\SmallWorldAlgo\SmallWorldAlgo\obj\Debug\SmallWorldAlgo.exe
+D:\MoMaterial Of Semesters\Semester(4)\Analysis - Design algorithms\SmallWorldAlgo\SmallWorldAlgo\obj\Debug\SmallWorldAlgo.pdb
+F:\SmallWorldAlgo\SmallWorldAlgo\bin\Debug\SmallWorldAlgo.exe.config
+F:\SmallWorldAlgo\SmallWorldAlgo\bin\Debug\SmallWorldAlgo.exe
+F:\SmallWorldAlgo\SmallWorldAlgo\bin\Debug\SmallWorldAlgo.pdb
+F:\SmallWorldAlgo\SmallWorldAlgo\obj\Debug\SmallWorldAlgo.csproj.AssemblyReference.cache
+F:\SmallWorldAlgo\SmallWorldAlgo\obj\Debug\SmallWorldAlgo.csproj.CoreCompileInputs.cache
+F:\SmallWorldAlgo\SmallWorldAlgo\obj\Debug\SmallWorldAlgo.exe
+F:\SmallWorldAlgo\SmallWorldAlgo\obj\Debug\SmallWorldAlgo.pdb
